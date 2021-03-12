@@ -1,7 +1,7 @@
 <pre>
 <php
 
-print 'Hello, I am Harshit Dawar!'
+print 'Hello, I am Harshit Dawar!';
 
 ?>
 </pre>
