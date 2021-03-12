@@ -1,5 +1,5 @@
 <pre>
-<php
+<?php
 
 print 'Hello, I am Harshit Dawar!';
 
